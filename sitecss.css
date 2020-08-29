@@ -1,26 +1,26 @@
 body {
-    background-color: rgb(44, 66, 71);
+  background-image: url(./images/IMG_3747.JPG);
 }
 
 .logo {
-    color: rgb(38, 200, 46);
-    background-color: rgb(44, 66, 71);
-    font-family: 'Ruso One', sans-serif;
-    font-style: normal;
+  color: rgb(38, 200, 46);
+  background-color: rgb(44, 66, 71);
+  font-family: "Ruso One", sans-serif;
+  font-style: normal;
 }
 
 .description {
-    width: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
-    font-size: 30px;
-    position: relative;
-    padding-top: 50px;
-    left: 300px;
+  width: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  font-size: 30px;
+  position: relative;
+  padding-top: 50px;
+  left: 300px;
 }
 
 img {
-    width: 300px;
-    position: absolute;
-    right: 300px;
+  width: 300px;
+  position: absolute;
+  right: 300px;
 }
