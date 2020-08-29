@@ -1,5 +1,7 @@
 body {
   background-image: url(./images/IMG_3747.JPG);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 .logo {
