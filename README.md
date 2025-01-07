@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :)
 
 - 🔭 I’m currently working on lovelytingy.com
 - 🌱 I’m currently learning go, svelte, español
